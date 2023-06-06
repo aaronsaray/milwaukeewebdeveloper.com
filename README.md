@@ -1,2 +1,1 @@
-# milwaukeewebdeveloper.com
-Redirects to a random MKE developer on Github
+[milwaukeewebdeveloper.com](https://milwaukeewebdeveloper.com) redirects to a random MKE developer on Github
